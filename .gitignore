@@ -1,3 +1,4 @@
+### Java ###
 # Compiled class file
 *.class
 
@@ -21,3 +22,22 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+replay_pid*
+
+### NetBeans ###
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+SIST_Estacionamiento/build.xml
+SIST_Estacionamiento/nbproject/ant-deploy.xml
+SIST_Estacionamiento/nbproject/build-impl.xml
+SIST_Estacionamiento/nbproject/genfiles.properties
+SIST_Estacionamiento/nbproject/project.properties
+SIST_Estacionamiento/nbproject/project.xml
+SIST_Estacionamiento/web/WEB-INF/web.xml
+SIST_Estacionamiento/web/WEB-INF/glassfish-web.xml
